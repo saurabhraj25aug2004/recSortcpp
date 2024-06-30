@@ -1,0 +1,12 @@
+Question:
+which of the following sorting algorithm is used along with quick sort to sort the subarrays?
+
+
+Option:
+a:Merge sort
+b:Selection sort
+c:Insertion sort
+d:Bubble sort
+
+Answer:
+Insertion sort 

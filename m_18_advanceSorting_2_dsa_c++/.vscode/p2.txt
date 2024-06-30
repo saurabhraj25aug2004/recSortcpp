@@ -1,0 +1,12 @@
+Question:
+How many subarray does the partitioning step of the quick sort algorithm divide the entire array into?
+
+Option:
+a)One
+b)two 
+c)depends on element of array 
+d)depends on size of array 
+
+
+Answer:
+b)two
